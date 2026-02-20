@@ -1,87 +1,129 @@
 # 🤖 Modül 2: Klasik Makine Öğrenmesi - Detaylı Müfredat
 
-Bu doküman; Makine Öğrenmesi temelleri, Regresyon, Sınıflandırma, Topluluk (Ensemble) yöntemleri ve Denetimsiz Öğrenme başlıklarından oluşan **Modül 2**'nin kaynak matrisini ve haftalık dökümünü içerir.
+Bu doküman, müfredatın 6. bölümünden 12. bölümüne kadar uzanan Klasik Makine Öğrenmesi sürecini kapsamaktadır. Her bölüm için özel kaynaklar ve alıştırmalar satır bazlı olarak düzenlenmiştir.
 
 ---
 
-## 🗺️ Kaynak ve Müfredat Matrisi
+## 🗺️ Kaynak ve Müfredat Matrisi (Bölüm 6 - 12)
 
-Aşağıdaki tablo, öğrenim sürecinizdeki ana kaynakların hangi ML alanlarını kapsadığını göstermektedir. Matematiksel temeller için birleşik hücreler kullanılmıştır.
+Aşağıdaki tablo, öğrenim sürecinizdeki ana kaynakların hangi bölümleri kapsadığını göstermektedir.
 
 <table>
   <thead>
     <tr>
-      <th>Kategori</th>
-      <th>Konu Başlığı</th>
-      <th align="center">1. Giriş ve Ön İşleme</th>
-      <th align="center">2. Regresyon Modelleri</th>
-      <th align="center">3. Sınıflandırma Modelleri</th>
-      <th align="center">4. Ensemble & Unsupervised</th>
+      <th>No</th>
+      <th>Bölüm Adı</th>
+      <th>İnternet Sitesi</th>
+      <th>Medium / GfG</th>
+      <th>Youtube</th>
+      <th>Alıştırmalar</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4"><b>Kaynaklar</b></td>
-      <td>İnternet Sitesi</td>
-      <td align="center"><a href="https://scikit-learn.org/stable/getting_started.html">Scikit-Learn Guide</a></td>
-      <td align="center"><a href="https://www.statmethods.net/stats/regression.html">Quick-R: Regression</a></td>
-      <td align="center"><a href="https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html">ML Cheatsheet</a></td>
-      <td align="center"><a href="https://xgboost.readthedocs.io/en/stable/">XGBoost Docs</a> / <a href="https://scikit-learn.org/stable/unsupervised_learning.html">Clustering</a></td>
+      <td align="center"><b>6</b></td>
+      <td>Makine Öğrenmesine Giriş</td>
+      <td><a href="https://scikit-learn.org/stable/preface.html">Sklearn Intro</a></td>
+      <td><a href="https://medium.com/topic/machine-learning">ML Basics</a></td>
+      <td>StatQuest: ML Basics</td>
+      <td>Kavramsal Test</td>
     </tr>
     <tr>
-      <td>Medium / GfG</td>
-      <td colspan="4" align="center"><a href="https://towardsdatascience.com/machine-learning/home">Towards Data Science: Comprehensive ML Pillars</a></td>
+      <td align="center"><b>7</b></td>
+      <td>ML Temelleri (Ön İşleme)</td>
+      <td><a href="https://scikit-learn.org/stable/modules/preprocessing.html">Preprocessing Guide</a></td>
+      <td><a href="https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/">GfG Preprocessing</a></td>
+      <td>Krish Naik: Preprocessing</td>
+      <td>Scaling & Encoding Lab</td>
     </tr>
     <tr>
-      <td>Youtube</td>
-      <td align="center">StatQuest - ML Basics</td>
-      <td colspan="2" align="center">Andrew Ng - Machine Learning Specialization</td>
-      <td align="center">Krish Naik - Ensemble Techniques</td>
+      <td align="center"><b>8</b></td>
+      <td>Supervised Learning - Regresyon</td>
+      <td><a href="https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html">Reg. Cheatsheet</a></td>
+      <td><a href="https://towardsdatascience.com/linear-regression-detailed-view-ea73175f5950">Linear Reg. Detail</a></td>
+      <td>Andrew Ng: Regression</td>
+      <td><b>Sıfırdan (Scratch) Kodlama</b></td>
     </tr>
     <tr>
-      <td>Eğitim Serisi</td>
-      <td colspan="4" align="center">Coursera: Machine Learning by Stanford / Kaggle Learn: Intermediate Machine Learning</td>
+      <td align="center"><b>9</b></td>
+      <td>Supervised Learning - Sınıflandırma</td>
+      <td><a href="https://scikit-learn.org/stable/modules/tree.html">Decision Trees</a></td>
+      <td><a href="https://www.geeksforgeeks.org/classification-in-machine-learning/">Classification Guide</a></td>
+      <td>StatQuest: SVM & Trees</td>
+      <td><b>Sıfırdan (Scratch) k-NN</b></td>
     </tr>
     <tr>
-      <td colspan="2"><b>Alıştırmalar</b></td>
-      <td align="center">Preprocessing Lab (Sklearn)</td>
-      <td align="center">Linear Reg. From Scratch</td>
-      <td align="center">Classification Challenges</td>
-      <td align="center">K-Means Implementation</td>
+      <td align="center"><b>10</b></td>
+      <td>Ensemble Methods</td>
+      <td><a href="https://xgboost.readthedocs.io/">XGBoost Docs</a></td>
+      <td><a href="https://medium.com/tag/ensemble-learning">Ensemble Mastery</a></td>
+      <td>Corey Schafer: Random Forest</td>
+      <td>XGBoost vs RF Lab</td>
     </tr>
     <tr>
-      <td colspan="2"><b>Final Projesi</b></td>
-      <td colspan="4" align="center"><b>Uçtan Uca Tahminleme Modeli ve Model Değerlendirme Raporu</b></td>
+      <td align="center"><b>11</b></td>
+      <td>Unsupervised Learning</td>
+      <td><a href="https://scikit-learn.org/stable/modules/clustering.html">Clustering Guide</a></td>
+      <td><a href="https://www.geeksforgeeks.org/clustering-in-machine-learning/">GfG Clustering</a></td>
+      <td>Sentdex: PCA</td>
+      <td><b>Sıfırdan (Scratch) K-Means</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>12</b></td>
+      <td>Model Değerlendirme ve Seçimi</td>
+      <td><a href="https://scikit-learn.org/stable/modules/model_evaluation.html">Metrics Guide</a></td>
+      <td><a href="https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f1043830c5c8">Evaluation Metrics</a></td>
+      <td>StatQuest: ROC-AUC</td>
+      <td>Hyperparameter Tuning Lab</td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 📋 Alt Başlık Detayları
+## 📋 Teknik Alt Başlıklar (Sıralı Müfredat)
 
-Modül 2 kapsamında hakim olmanız gereken teknik detaylar aşağıdadır:
 
-### ⚙️ 1. Giriş, Temeller ve Ön İşleme (6-1 ile 7-11 arası)
-* **Kavramlar:** Denetimli/Denetimsiz öğrenme farkı, Overfitting ve Underfitting analizi.
-* **Ön İşleme:** Feature scaling (Standardization/Normalization), One-hot encoding ve Label encoding.
-* **Seçim:** Feature selection teknikleri ve Boyut azaltma (Dimensionality Reduction) mantığı.
 
-### 📈 2. Supervised Learning - Regresyon (8-1 ile 8-4 arası)
-* **Lineer & Polinomial:** En küçük kareler (Least Squares) yöntemi ve dereceli azalış (Gradient Descent) algoritması.
-* **Matematik:** Maliyet Fonksiyonu ($J(\theta)$) hesaplamaları.
-* **Düzenlileştirme:** Ridge ($L2$) ve Lasso ($L1$) regularization ile model karmaşıklığı yönetimi.
-* **Lojistik:** Sigmoid fonksiyonu ve olasılıksal sınıflandırma temelleri.
+### 6. Makine Öğrenmesine Giriş
+* **6-1-1.** Makine öğrenmesi nedir?
+* **6-1-2.** Denetimli vs Denetimsiz öğrenme teorisi.
+* **6-1-4.** Eğitim, doğrulama ve test kümeleri mantığı.
+* **6-2-1.** Lineer Regresyon ve Multiple Lineer Regresyon giriş.
 
-### 🎯 3. Supervised Learning - Sınıflandırma (9-1 ile 9-4 arası)
-* **Algoritmalar:** k-NN (Mesafe metrikleri), Karar Ağaçları (Gini/Entropy) ve SVM (Hyperplane/Kernel trick).
-* **Olasılık:** Bayes Teoremi ve Naive Bayes sınıflandırıcıları.
-* **Uygulama:** Her algoritmanın Scikit-learn implementasyonu ve hiperparametre optimizasyonu.
+### 7. Makine Öğrenmesi Temelleri
+* **7-1-3.** Overfitting ve underfitting tespiti.
+* **7-1-4.** Bias-variance tradeoff dengesi.
+* **7-2-1.** Feature scaling (normalization, standardization) teknikleri.
+* **7-2-2.** Veri kodlama (one-hot, label encoding).
 
-### 🌲 4. Ensemble Methods & Unsupervised Learning (10-1 ile 12-10 arası)
-* **Ensemble:** Bagging (Random Forest) ve Boosting (XGBoost, LightGBM, CatBoost) farkları.
-* **Unsupervised:** K-means clustering (Sıfırdan kodlama), Hierarchical clustering ve PCA.
-* **Değerlendirme:** Confusion Matrix, Precision/Recall, F1-Score ve ROC-AUC analizi.
+### 8. Supervised Learning - Regresyon
+* **8-1-1.** En küçük kareler (least squares) matematiksel temeli.
+* **8-1-2.** Gradient descent algoritması işleyişi.
+* **8-1-3.** **Sıfırdan Python implementasyonu (Kütüphanesiz).**
+* **8-3-1.** $L1$ (Lasso) ve $L2$ (Ridge) regularization farkları.
+
+### 9. Supervised Learning - Sınıflandırma
+* **9-1-1.** Mesafe metrikleri (Euclidean, Manhattan).
+* **9-2-1.** Information gain ve entropy hesaplamaları.
+* **9-3-2.** Kernel trick matematiksel altyapısı (SVM).
+* **9-4-1.** Bayes Teoremi ve olasılıksal sınıflandırma.
+
+### 10. Ensemble Methods
+* **10-1-1.** Bootstrap sampling ve Bagging mantığı.
+* **10-1-4.** **Sıfırdan Random Forest implementasyonu.**
+* **10-2-2.** Gradient Boosting ve XGBoost/LightGBM kullanımı.
+
+### 11. Unsupervised Learning
+* **11-1-1.** K-means algoritması ve yakınsama (convergence).
+* **11-1-5.** **Sıfırdan k-means implementasyonu.**
+* **11-2-1.** PCA (Principal Component Analysis) ve Eigenvalue hesaplamaları.
+
+### 12. Model Değerlendirme ve Seçimi
+* **12-1-1.** Accuracy, Precision, Recall ve F1-Score metrikleri.
+* **12-1-2.** ROC curve ve AUC alanı analizi.
+* **12-2-1.** Grid Search ve Random Search ile hiperparametre optimizasyonu.
 
 ---
-> **Lider Notu:** Modül 2'nin en büyük meydan okuması, algoritmaların matematiksel ispatlarını anlamaktır. Sadece kütüphane çağırmakla yetinmeyin!
+> **Önemli:** Modül 2 projelerinizi teslim ederken "Sıfırdan Kodlama" (Scratch) bölümlerine öncelik veriniz.
+---
