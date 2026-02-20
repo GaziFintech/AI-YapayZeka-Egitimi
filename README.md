@@ -15,8 +15,8 @@ Eğitimimiz 25 bölümlük yoğun bir programdan oluşmaktadır. Her modülün k
 
 | Modül | Kapsam | Durum | Repo Bağlantısı |
 | :--- | :--- | :--- | :--- |
-| **📦 Modül 1** | Veri Bilimi İçin Temeller | 🟢 Aktif | [Git/AI-Modul-01](../../) |
-| **🤖 Modül 2** | Klasik Makine Öğrenmesi | 🟢 Aktif | [Git/AI-Modul-02](../../) |
+| **📦 Modül 1** | Veri Bilimi İçin Temeller | 🟢 Aktif | [Git/AI-Modul-01](https://github.com/GaziFintech/AI-Modul-01-Python-Temelleri) |
+| **🤖 Modül 2** | Klasik Makine Öğrenmesi | 🟢 Aktif | [Git/AI-Modul-02](https://github.com/GaziFintech/AI-Modul-02-Klasik-Makine-Ogrenmesi) |
 | **🧠 Modül 3** | Derin Öğrenme & Bilgisayarlı Görü | 🟡 Hazırlanıyor | [Git/AI-Modul-03](../../) |
 | **🗣️ Modül 4** | NLP & Modern Dil Modelleri | ⚪ Beklemede | [Git/AI-Modul-04](../../) |
 | **🎮 Modül 5** | İleri AI: RL & GANs | ⚪ Beklemede | [Git/AI-Modul-05](../../) |
@@ -37,7 +37,7 @@ Eğitime dahil olmak için lütfen aşağıdaki adımları sırasıyla takip et:
 
 ## 📢 İletişim ve Yardımlaşma
 
-* **Genel Tartışmalar:** Organizasyonun ana sayfasındaki **[Discussions](../../discussions)** kısmını kullanın.
+* **Genel Tartışmalar:** Organizasyonun ana sayfasındaki **[Discussions](https://github.com/orgs/GaziFintech/discussions)** kısmını kullanın.
 * **Teknik Sorular:** İlgili modülün **Issues** kısmına yazın.
 * **Resmi Kanallar:** Topluluğun Instagram ve WhatsApp kanallarını takip etmeyi unutmayın.
 
