@@ -63,4 +63,4 @@ Hangi ortamın sana en uygun olduğuna karar veremediysen bu tablo sana yol gös
 ---
 
 > [!IMPORTANT]
-> **Yardım mı lazım?** Kurulumda bir hata alırsan ekran görüntüsü alıp [Discussions](../../discussions) kısmında paylaşabilirsin. Gazi FinTech ekibi her zaman yanında! 🚀
+> **Yardım mı lazım?** Kurulumda bir hata alırsan ekran görüntüsü alıp [Discussions](https://github.com/orgs/GaziFintech/discussions) kısmında paylaşabilirsin. Gazi FinTech ekibi her zaman yanında! 🚀
