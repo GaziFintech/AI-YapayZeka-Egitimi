@@ -11,17 +11,19 @@ Finans dünyasının verisini, yapay zekanın gücüyle birleştirerek yarının
 
 ## 🗺️ Eğitim Yol Haritası (6 Ana Modül)
 
-Eğitimimiz 25 bölümlük yoğun bir programdan oluşmaktadır. Her modülün kendine ait bağımsız bir deposu bulunur.
+Eğitimimiz 25 bölümlük yoğun bir programdan oluşmaktadır. Her modülün kendine ait bağımsız bir deposu ve bu depodaki teknik detayları açıklayan bir dökümanı bulunur.
 
-| Modül | Kapsam | Durum | Repo Bağlantısı |
-| :--- | :--- | :--- | :--- |
-| **📦 Modül 1** | Veri Bilimi İçin Temeller | 🟢 Aktif | [Git/AI-Modul-01](https://github.com/GaziFintech/AI-Modul-01-Python-Temelleri) |
-| **🤖 Modül 2** | Klasik Makine Öğrenmesi | 🟢 Aktif | [Git/AI-Modul-02](https://github.com/GaziFintech/AI-Modul-02-Klasik-Makine-Ogrenmesi) |
-| **🧠 Modül 3** | Derin Öğrenme & Bilgisayarlı Görü | 🟡 Hazırlanıyor | [Git/AI-Modul-03](../../) |
-| **🗣️ Modül 4** | NLP & Modern Dil Modelleri | ⚪ Beklemede | [Git/AI-Modul-04](../../) |
-| **🎮 Modül 5** | İleri AI: RL & GANs | ⚪ Beklemede | [Git/AI-Modul-05](../../) |
-| **🏗️ Modül 6** | MLOps & Mühendislik | ⚪ Beklemede | [Git/AI-Modul-06](../../) |
 
+| Modül | Kapsam | Durum | Müfredat Detayı | Repo Bağlantısı |
+| :--- | :--- | :--- | :--- | :--- |
+| **📦 Modül 1** | Veri Bilimi İçin Temeller | 🟢 Aktif | [📄 Detaylar](./curriculum/module-1-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-01-Python-Temelleri) |
+| **🤖 Modül 2** | Klasik Makine Öğrenmesi | 🟢 Aktif | [📄 Detaylar](./curriculum/module-2-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-02-Klasik-Makine-Ogrenmesi) |
+| **🧠 Modül 3** | Derin Öğrenme & Bilgisayarlı Görü | 🟡 Hazırlanıyor | [📄 Detaylar](./curriculum/module-3-details.md) | [🔍 İncele](../../) |
+| **🗣️ Modül 4** | NLP & Modern Dil Modelleri | ⚪ Beklemede | [📄 Detaylar](./curriculum/module-4-details.md) | [🔍 İncele](../../) |
+| **🎮 Modül 5** | İleri AI: RL & GANs | ⚪ Beklemede | [📄 Detaylar](./curriculum/module-5-details.md) | [🔍 İncele](../../) |
+| **🏗️ Modül 6** | MLOps & Mühendislik | ⚪ Beklemede | [📄 Detaylar](./curriculum/module-6-details.md) | [🔍 İncele](../../) |
+
+---
 ---
 
 ## 🛠️ Nasıl Başlarım? (Süreç Yönergesi)
