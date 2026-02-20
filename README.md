@@ -35,14 +35,38 @@ Eğitime dahil olmak için lütfen aşağıdaki adımları sırasıyla takip et:
 
 ---
 
+# 🧪 AI Playground & Innovation Lab (Ar-Ge Merkezi)
+
+Eğitim sürecine paralel olarak, tüm üyelerimizin özgürce proje geliştirebileceği **AI-Project-Playground (Lab)** depomuz yayındadır. Müfredatın dışına çıkmak, toplulukla ortak projeler üretmek ve Kaggle yarışmalarına katılmak için burayı kullanıyoruz.
+
+### ✨ Neler Yapıyoruz?
+* **Mini Projeler:** Finansal botlar, duygu analizi araçları, portföy optimizasyon denemeleri.
+* **Kaggle Çözümleri:** Küresel veri bilimi yarışmalarına katılım ve çözüm paylaşımları.
+* **Serbest Alan:** Kendi fikirlerini koda dök ve topluluktan geri bildirim al.
+
+> **Unutma:** Müfredat sana yolu öğretir, Lab ise o yolda nasıl koşacağını!
+
+---
+
+## 🤝 Hangi Durumda Hangi Repoyu Kullanmalısın?
+
+Karışıklığı önlemek için kısa bir rehber:
+
+| Senaryo | Doğru Repo | İşlem |
+| :--- | :--- | :--- |
+| **"Eğitim alıyorum, ödev teslim edeceğim"** | `AI-Modul-XX` | Ödevleri ve ders notlarını takip et. |
+| **"Kendi fikrim var / Kaggle yapıyorum"** | `AI-Project-Playground` | Özgün projelerini geliştir ve paylaş. |
+| **"Duyurulara bakacağım / Rehberleri okuyacağım"** | `AI-YapayZeka-Egitimi` | Genel bilgi ve kaynakları incele. |
+
+---
+
 ## 📢 İletişim ve Yardımlaşma
 
 * **Genel Tartışmalar:** Organizasyonun ana sayfasındaki **[Discussions](https://github.com/orgs/GaziFintech/discussions)** kısmını kullanın.
 * **Teknik Sorular:** İlgili modülün **Issues** kısmına yazın.
 * **Resmi Kanallar:** Topluluğun Instagram ve WhatsApp kanallarını takip etmeyi unutmayın.
 
-
-
 ---
 > **"Geleceği tahmin etmenin en iyi yolu, onu inşa etmektir."**
-> *Gazi Finansal Teknolojiler Topluluğu - Proje Ekibi Yönetimi*
+
+*Gazi Finansal Teknolojiler Topluluğu - Proje Ekibi Yönetimi*
