@@ -45,6 +45,8 @@ Eğitim sürecine paralel olarak, tüm üyelerimizin özgürce proje geliştireb
 * **Mini Projeler:** Finansal botlar, duygu analizi araçları, portföy optimizasyon denemeleri.
 * **Kaggle Çözümleri:** Küresel veri bilimi yarışmalarına katılım ve çözüm paylaşımları.
 * **Serbest Alan:** Kendi fikirlerini koda dök ve topluluktan geri bildirim al.
+  
+[![Üretime Katıl](https://img.shields.io/badge/ÜRETİME--KATIL-orange?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/GaziFintech/AI-Community-Lab)
 
 > **Unutma:** Müfredat sana yolu öğretir, Lab ise o yolda nasıl koşacağını!
 
