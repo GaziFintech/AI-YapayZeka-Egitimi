@@ -17,7 +17,9 @@ Dosyalarını yükleyip kaydettiğinde (Commit), GitHub genellikle sana sayfanı
 * Eğer görmüyorsan: Üst menüden **"Pull Request"** sekmesine tıkla ve yeşil **"New pull request"** butonuna bas.
 
 > [!TIP]
-> **[BURAYA SARI BANT / NEW PR BUTONU EKRAN GÖRÜNTÜSÜ GELECEK]**
+> **Görünüm Rehberi:**
+> ![Pull Request Sekmesi](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/prbuton.png?raw=true)
+> ![New PR Butonu](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/prnew.png?raw=true)
 
 ---
 
@@ -28,9 +30,7 @@ PR ekranında iki tane kutucuk göreceksin. Burası çok önemli:
 
 > **Kontrol Et:** "Able to merge" (Birleştirilebilir) yazısını ve yeşil onay işaretini gördüğünden emin ol.
 
-> [!TIP]
-> **[BURAYA DOĞRU BRANCH SEÇME EKRAN GÖRÜNTÜSÜ GELECEK]**
-
+![Doğru Branch Seçimi](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/prbranches.png?raw=true)
 
 ---
 
@@ -39,13 +39,14 @@ Butona bastığında karşına hazır bir şablon gelecek. Bu formu doldurmak he
 * **Başlık:** `[ÖDEV] - Adın Soyadın - Modül No` şeklinde bir başlık at.
 * **Açıklama:** Şablondaki soruları yanıtla (Neleri bitirdin? Hangi konuda zorlandın?).
 
-> [!TIP]
-> **[BURAYA PR FORMU DOLDURMA EKRAN GÖRÜNTÜSÜ GELECEK]**
+![PR Formu Doldurma](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/prformu.png?raw=true)
 
 ---
 
 ### 4. Adım: Teslimi Tamamla
 Her şey tamamsa, yeşil **"Create pull request"** butonuna bas. Artık top liderinde! 🎾
+
+![Create PR Onay](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/crateprbuton.png?raw=true)
 
 ---
 
@@ -62,5 +63,7 @@ Her şey tamamsa, yeşil **"Create pull request"** butonuna bas. Artık top lide
 ## ⚠️ Dikkat: PR Açarken Yapılan En Büyük Hata!
 **Kendi profilindeki "main" dalından PR açmaya çalışmak.** Lütfen her zaman kendi oluşturduğun `ad-soyad` dalını (branch) seçtiğinden emin ol. Aksi takdirde liderin kimin ödevini kontrol ettiğini anlamakta zorlanabilir.
 
+**Takıldın mı?** Bir sorun yaşarsan [Gazi FinTech Discussions](https://github.com/orgs/GaziFintech/discussions) kısmından sormaktan çekinme!
+
 ---
-*Gazi Finansal Teknolojiler Topluluğu - Proje Ekibi*
+*Gazi Finansal Teknolojiler Topluluğu - Proje Ekibi Lideri Arif Furkan Aytekin*
