@@ -1,4 +1,4 @@
-# 🛠️ GitHub Kullanım Rehberi (Kurulumsuz / Web Yöntemi)
+# 🛠️ GitHub Kullanım Rehberi
 
 Merhaba Gazi FinTech’li! Bu rehberde, bilgisayarına hiçbir program indirmeden, sadece tarayıcı kullanarak projelerini nasıl teslim edeceğini öğreneceksin. GitHub'ı bir tür **"akıllı Google Drive"** gibi kullanacağız.
 
@@ -11,6 +11,8 @@ Merhaba Gazi FinTech’li! Bu rehberde, bilgisayarına hiçbir program indirmede
 
 > **Ne işe yarar?** Bu işlem, projenin bir kopyasını senin kendi profilinde oluşturur. Artık o kopya üzerinde dilediğin gibi değişiklik yapabilirsin.
 
+![Fork İşlemi](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/forg.png?raw=true)
+
 ---
 
 ### 2. Adım: Dosya Yükleme Alanına Git
@@ -19,7 +21,9 @@ Kendi profilindeki kopyaya (fork ettiğin repo) girdikten sonra:
 2.  Sağ üstteki **"Add file"** butonuna bas ve **"Upload files"** seçeneğini seç.
 
 > [!TIP]
-> **[BURAYA "ADD FILE" BUTONU EKRAN GÖRÜNTÜSÜ GELECEK]**
+> **Görünüm Rehberi:**
+> ![Submissions Klasörü](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/submissions_klasoru.png?raw=true)
+> ![Add File Butonu](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/add-file.png?raw=true)
 
 ---
 
@@ -28,6 +32,8 @@ Kendi profilindeki depoya (fork) girdiğinde **"main"** yazan butona tıkla. Ora
 
 > [!IMPORTANT]
 > **ÖNEMLİ:** Eğitim sonuna kadar tüm dosyalarını bu branch (dal) içine yükleyeceksin. Bir daha yeni branch açmana gerek yok!
+
+![Branch Oluşturma](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/branches.png?raw=true)
 
 ---
 
@@ -38,26 +44,33 @@ Kendi profilindeki depoya (fork) girdiğinde **"main"** yazan butona tıkla. Ora
 4.  Ardından üst menüdeki **"Pull Request"** sekmesine git ve **"New Pull Request"** diyerek teslimini başlat.
 
 > [!TIP]
-> **[BURAYA COMMIT ALANI EKRAN GÖRÜNTÜSÜ GELECEK]**
+> **Görünüm Rehberi:**
+> ![Pull Request Sekmesi](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/prbuton.png?raw=true)
 
 ---
 
 ### 5. Adım: Pull Request (Teslimi Onayla)
-Bir önceki adımı tamamladığında karşına bir form çıkacak:
-1.  Buradaki formda modül ile ilgili istenen bilgileri doldur (Adın, tamamladığın bölümler vb.).
-2.  **"Create Pull Request"** butonuna bas.
+Bir önceki adımı tamamladığında karşınıza çıkan ekranlarda şu sırayı takip edin:
+1.  **New Pull Request** butonuna basın.
+2.  Branch'lerin doğru karşılaştırıldığından emin olun.
+3.  Açılan formda modül ile ilgili istenen bilgileri doldurun (Adın, tamamladığın bölümler vb.).
+4.  **"Create Pull Request"** butonuna basarak işlemi tamamlayın.
 
 **Tebrikler! 🎉** Ödevin liderine (Gazi FinTech yönetimine) ulaştı. Kodun incelendikten sonra ana projeye dahil edilecek.
 
 > [!TIP]
-> **[BURAYA PULL REQUEST ALANI EKRAN GÖRÜNTÜSÜ GELECEK]**
+> **PR Süreç Görselleri:**
+> ![New PR](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/prnew.png?raw=true)
+> ![Branch Karşılaştırma](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/prbranches.png?raw=true)
+> ![PR Formu](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/prformu.png?raw=true)
+> ![Create PR Onay](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/assets/crateprbuton.png?raw=true)
 
 ---
 
 ## 💡 Dikkat Edilmesi Gerekenler
 * **Klasör Düzeni:** Dosyalarını yanlışlıkla ana dizine atma, daima `submissions/ad-soyad` yolunu kullan.
-* **Güncelleme:** Eğer liderin ana depoya yeni kaynaklar eklerse, kendi sayfundaki **"Sync fork"** butonuna basarak kendi kopyanı güncelleyebilirsin.
-* **Takıldın mı?** Bir sorun yaşarsan ilgili deponun **Issues** kısmından sormaktan çekinme!
+* **Güncelleme:** Eğer liderin ana depoya yeni kaynaklar eklerse, kendi sayfandaki **"Sync fork"** butonuna basarak kendi kopyanı güncelleyebilirsin.
+* **Takıldın mı?** Bir sorun yaşarsan [Gazi FinTech Discussions](https://github.com/orgs/GaziFintech/discussions) kısmından sormaktan çekinme!
 
 ---
-*Gazi Finansal Teknolojiler Topluluğu - Proje Ekibi*
+*Gazi Finansal Teknolojiler Topluluğu - Proje Ekibi Lideri Arif Furkan Aytekin*
