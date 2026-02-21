@@ -30,8 +30,8 @@ Eğitimimiz 25 bölümlük yoğun bir programdan oluşmaktadır. Her modülün k
 
 Eğitime dahil olmak için lütfen aşağıdaki adımları sırasıyla takip et:
 
-1. **Hazırlık:** [guides/environment-setup.md](./Rehberler(guides)/environment-setup.md) rehberini takip ederek gerekli kurulumları yap.
-2. **GitHub Öğren:** Projeleri nasıl teslim edeceğini öğrenmek için [guides/github-setup.md](./Rehberler(guides)/github-setup.md) dosyasını oku.
+1. **Hazırlık:** [guides/environment-setup.md](./Rehberler(Guides)/environment-setup.md) rehberini takip ederek gerekli kurulumları yap.
+2. **GitHub Öğren:** Projeleri nasıl teslim edeceğini öğrenmek için [guides/github-setup.md](./Rehberler(Guides)/github-setup.md) dosyasını oku.
 3. **Modülünü Seç:** Yukarıdaki tablodan şu an aktif olan modülün deposuna git.
 4. **Öğren ve Üret:** Depodaki kaynakları bitir, projeni yap ve **Pull Request (PR)** açarak liderine teslim et.
 
