@@ -16,12 +16,12 @@ Eğitimimiz 25 bölümlük yoğun bir programdan oluşmaktadır. Her modülün k
 
 | Modül | Kapsam | Durum | Müfredat Detayı | Repo Bağlantısı |
 | :--- | :--- | :--- | :--- | :--- |
-| **📦 Modül 1** | Veri Bilimi İçin Temeller | 🟢 Aktif | [📄 Detaylar](./curriculum/module-1-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-01-Python-Temelleri) |
-| **🤖 Modül 2** | Klasik Makine Öğrenmesi | 🟢 Aktif | [📄 Detaylar](./curriculum/module-2-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-02-Klasik-Makine-Ogrenmesi) |
-| **🧠 Modül 3** | Derin Öğrenme & Bilgisayarlı Görü | 🟡 Hazırlanıyor | [📄 Detaylar](./curriculum/module-3-details.md) | [🔍 İncele](../../) |
-| **🗣️ Modül 4** | NLP & Modern Dil Modelleri | ⚪ Beklemede | [📄 Detaylar](./curriculum/module-4-details.md) | [🔍 İncele](../../) |
-| **🎮 Modül 5** | İleri AI: RL & GANs | ⚪ Beklemede | [📄 Detaylar](./curriculum/module-5-details.md) | [🔍 İncele](../../) |
-| **🏗️ Modül 6** | MLOps & Mühendislik | ⚪ Beklemede | [📄 Detaylar](./curriculum/module-6-details.md) | [🔍 İncele](../../) |
+| **📦 Modül 1** | Veri Bilimi İçin Temeller | 🟢 Aktif | [📄 Detaylar](./Mufredat(curriculum)/module-1-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-01-Python-Temelleri) |
+| **🤖 Modül 2** | Klasik Makine Öğrenmesi | 🟢 Aktif | [📄 Detaylar](./Mufredat(curriculum)/module-2-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-02-Klasik-Makine-Ogrenmesi) |
+| **🧠 Modül 3** | Derin Öğrenme & Bilgisayarlı Görü | 🟡 Hazırlanıyor | [📄 Detaylar](./Mufredat(curriculum)/module-3-details.md) | [🔍 İncele](../../) |
+| **🗣️ Modül 4** | NLP & Modern Dil Modelleri | ⚪ Beklemede | [📄 Detaylar](./Mufredat(curriculum)/module-4-details.md) | [🔍 İncele](../../) |
+| **🎮 Modül 5** | İleri AI: RL & GANs | ⚪ Beklemede | [📄 Detaylar](./Mufredat(curriculum)/module-5-details.md) | [🔍 İncele](../../) |
+| **🏗️ Modül 6** | MLOps & Mühendislik | ⚪ Beklemede | [📄 Detaylar](./Mufredat(curriculum)/module-6-details.md) | [🔍 İncele](../../) |
 
 ---
 ---
@@ -30,8 +30,8 @@ Eğitimimiz 25 bölümlük yoğun bir programdan oluşmaktadır. Her modülün k
 
 Eğitime dahil olmak için lütfen aşağıdaki adımları sırasıyla takip et:
 
-1. **Hazırlık:** [guides/environment-setup.md](./guides/environment-setup.md) rehberini takip ederek gerekli kurulumları yap.
-2. **GitHub Öğren:** Projeleri nasıl teslim edeceğini öğrenmek için [guides/github-setup.md](./guides/github-setup.md) dosyasını oku.
+1. **Hazırlık:** [guides/environment-setup.md](./Rehberler(guides)/environment-setup.md) rehberini takip ederek gerekli kurulumları yap.
+2. **GitHub Öğren:** Projeleri nasıl teslim edeceğini öğrenmek için [guides/github-setup.md](./Rehberler(guides)/github-setup.md) dosyasını oku.
 3. **Modülünü Seç:** Yukarıdaki tablodan şu an aktif olan modülün deposuna git.
 4. **Öğren ve Üret:** Depodaki kaynakları bitir, projeni yap ve **Pull Request (PR)** açarak liderine teslim et.
 
