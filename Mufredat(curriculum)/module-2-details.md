@@ -16,44 +16,44 @@ Bu doküman, müfredatın 6. bölümünden 12. bölümüne kadar uzanan Klasik M
 ### 📈 8. Modül: Supervised Learning - Regresyon
 | No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi |
 |:---|:---|:---|:---|:---|:---|
-| **8-1** | Lineer Regresyon (Matematik & Uygulama) | [Link] | [Link] | [Link] | [Link] | 
-| **8-2** | Polinomial Regresyon | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **8-3** | Regularization (Ridge, Lasso, Elastic Net) | [Link] | [Link] | [Link] | [Link] | 
-| **8-4** | Lojistik Regresyon | [Link] | [Link] | [Link] | [Link] | 
+| **8.1** | Lineer Regresyon (Matematik & Uygulama) | [Link] | [Link] | [Link] | [Link] | 
+| **8.2** | Polinomial Regresyon | [Link] | [Link] | [Link] | [Link] | [Ödev] |
+| **8.3** | Regularization (Ridge, Lasso, Elastic Net) | [Link] | [Link] | [Link] | [Link] | 
+| **8.4** | Lojistik Regresyon | [Link] | [Link] | [Link] | [Link] | 
 
 ---
 
 ### 🎯 9. Modül: Supervised Learning - Sınıflandırma
 | No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 
 |:---|:---|:---|:---|:---|:---|
-| **9-1** | k-Nearest Neighbors (k-NN) | [Link] | [Link] | [Link] | [Link] | 
-| **9-2** | Karar Ağaçları (Decision Trees) | [Link] | [Link] | [Link] | [Link] | 
-| **9-3** | Support Vector Machines (SVM) | [Link] | [Link] | [Link] | [Link] | 
-| **9-4** | Naive Bayes | [Link] | [Link] | [Link] | [Link] |
+| **9.1** | k-Nearest Neighbors (k-NN) | [Link] | [Link] | [Link] | [Link] | 
+| **9.2** | Karar Ağaçları (Decision Trees) | [Link] | [Link] | [Link] | [Link] | 
+| **9.3** | Support Vector Machines (SVM) | [Link] | [Link] | [Link] | [Link] | 
+| **9.4** | Naive Bayes | [Link] | [Link] | [Link] | [Link] |
 
 ---
 
 ### 🌲 10. Modül: Ensemble Methods (Topluluk Yöntemleri)
 | No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi |
 |:---|:---|:---|:---|:---|:---|
-| **10-1** | Bagging ve Random Forest | [Link] | [Link] | [Link] | [Link] | 
-| **10-2** | Boosting (XGBoost, LightGBM, CatBoost) | [Link] | [Link] | [Link] | [Link] |
+| **10.1** | Bagging ve Random Forest | [Link] | [Link] | [Link] | [Link] | 
+| **10.2** | Boosting (XGBoost, LightGBM, CatBoost) | [Link] | [Link] | [Link] | [Link] |
 
 ---
 
 ### 🔍 11. Modül: Unsupervised Learning
 | No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 
 |:---|:---|:---|:---|:---|:---|
-| **11-1** | Kümeleme (K-means, Hierarchical, DBSCAN) | [Link] | [Link] | [Link] | [Link] | 
-| **11-2** | Boyut Azaltma (PCA, SVD, t-SNE) | [Link] | [Link] | [Link] | [Link] |
+| **11.1** | Kümeleme (K-means, Hierarchical, DBSCAN) | [Link] | [Link] | [Link] | [Link] | 
+| **11.2** | Boyut Azaltma (PCA, SVD, t-SNE) | [Link] | [Link] | [Link] | [Link] |
 
 ---
 
 ### 📏 12. Modül: Değerlendirme ve Model Seçimi
 | No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi |
 |:---|:---|:---|:---|:---|:---|
-| **12-1** | Değerlendirme Metrikleri (ROC, AUC, F1) | [Link] | [Link] | [Link] | [Link] | 
-| **12-2** | Model Seçimi & Hiperparametre Tuning | [Link] | [Link] | [Link] | [Link] |
+| **12.1** | Değerlendirme Metrikleri (ROC, AUC, F1) | [Link] | [Link] | [Link] | [Link] | 
+| **12.2** | Model Seçimi & Hiperparametre Tuning | [Link] | [Link] | [Link] | [Link] |
 
 ---
 
