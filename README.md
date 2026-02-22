@@ -16,9 +16,9 @@ Eğitimimiz 25 bölümlük yoğun bir programdan oluşmaktadır. Her modülün k
 
 | Modül | Kapsam | Durum | Müfredat Detayı | Repo Bağlantısı |
 | :--- | :--- | :--- | :--- | :--- |
-| **📦 Modül 1** | Veri Bilimi İçin Temeller | 🟢 Aktif | [📄 Detaylar](./Mufredat(curriculum)/module-1-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-01-Python-Temelleri) |
-| **🤖 Modül 2** | Klasik Makine Öğrenmesi | 🟢 Aktif | [📄 Detaylar](./Mufredat(curriculum)/module-2-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-02-Klasik-Makine-Ogrenmesi) |
-| **🧠 Modül 3** | Derin Öğrenme & Bilgisayarlı Görü | 🟡 Hazırlanıyor | [📄 Detaylar](./Mufredat(curriculum)/module-3-details.md) | [🔍 İncele](../../) |
+| **📦 Modül 1** | Veri Bilimi İçin Temeller | 🟡 Hazırlanıyor | [📄 Detaylar](./Mufredat(curriculum)/module-1-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-01-Python-Temelleri) |
+| **🤖 Modül 2** | Klasik Makine Öğrenmesi | 🟡 Hazırlanıyor | [📄 Detaylar](./Mufredat(curriculum)/module-2-details.md) | [🔍 İncele](https://github.com/GaziFintech/AI-Modul-02-Klasik-Makine-Ogrenmesi) |
+| **🧠 Modül 3** | Derin Öğrenme & Bilgisayarlı Görü | ⚪ Beklemede | [📄 Detaylar](./Mufredat(curriculum)/module-3-details.md) | [🔍 İncele](../../) |
 | **🗣️ Modül 4** | NLP & Modern Dil Modelleri | ⚪ Beklemede | [📄 Detaylar](./Mufredat(curriculum)/module-4-details.md) | [🔍 İncele](../../) |
 | **🎮 Modül 5** | İleri AI: RL & GANs | ⚪ Beklemede | [📄 Detaylar](./Mufredat(curriculum)/module-5-details.md) | [🔍 İncele](../../) |
 | **🏗️ Modül 6** | MLOps & Mühendislik | ⚪ Beklemede | [📄 Detaylar](./Mufredat(curriculum)/module-6-details.md) | [🔍 İncele](../../) |
@@ -46,7 +46,7 @@ Eğitim sürecine paralel olarak, tüm üyelerimizin özgürce proje geliştireb
 * **Kaggle Çözümleri:** Küresel veri bilimi yarışmalarına katılım ve çözüm paylaşımları.
 * **Serbest Alan:** Kendi fikirlerini koda dök ve topluluktan geri bildirim al.
   
-[![Üretime Katıl](https://img.shields.io/badge/ÜRETİME--KATIL-orange?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/GaziFintech/AI-Community-Lab)
+[![Üretime Katıl](https://img.shields.io/badge/ÜRETİME--KATIL-orange?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/GaziFintech/AI-Community-Lab) 🟢 Aktif 
 
 > **Unutma:** Müfredat sana yolu öğretir, Lab ise o yolda nasıl koşacağını!
 
