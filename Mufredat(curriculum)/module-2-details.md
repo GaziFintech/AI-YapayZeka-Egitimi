@@ -2,117 +2,58 @@
 
 Bu doküman, müfredatın 6. bölümünden 12. bölümüne kadar uzanan Klasik Makine Öğrenmesi sürecini kapsamaktadır. Her bölüm için özel kaynaklar ve alıştırmalar satır bazlı olarak düzenlenmiştir.
 
----
 
 ## 🗺️ Kaynak ve Müfredat Matrisi
 
 ### 🤖 6. & 7. Modül: Makine Öğrenmesine Giriş & Temeller
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **6.1 & 7.1** | ML Temel Kavramları (Teori) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PL3ED48mWmYxrAdWjQlOWzFNaM4gLgry5T) | [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/supervised_learning.html) | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/machine-learning-türkiye/makine-ogrenmesi-7cfbb3d859db) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@onurkasap/scikit-learne-giriş-08f5812791b1) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/machine-learning/what-is-python-scikit-library/) | [![Google Developers](https://img.shields.io/badge/Google%20Developers-%23202124.svg?style=for-the-badge&logo=google-developers&logoColor=white)](https://developers.google.com/machine-learning?hl=tr) | [Ödev] |
-| **7.2** | Veri Ön İşleme (Preprocessing) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=IR14hDWQVU0) | [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/data_transforms.html) | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@denizkilinc/python-ile-veri-ön-i̇şlemeye-dalış-f89f921658bd) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/machine-learning/what-is-data-normalization/) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/specializations/machine-learning-introduction) | [Ödev] |
+| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 
+|:---|:---|:---|:---|:---|:---|
+| **6.1 & 7.1** | ML Temel Kavramları (Teori) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PL3ED48mWmYxrAdWjQlOWzFNaM4gLgry5T) | [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/supervised_learning.html) | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/machine-learning-türkiye/makine-ogrenmesi-7cfbb3d859db) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@onurkasap/scikit-learne-giriş-08f5812791b1) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/machine-learning/what-is-python-scikit-library/) | [![Google Developers](https://img.shields.io/badge/Google%20Developers-%23202124.svg?style=for-the-badge&logo=google-developers&logoColor=white)](https://developers.google.com/machine-learning?hl=tr) | 
+| **7.2** | Veri Ön İşleme (Preprocessing) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=IR14hDWQVU0) | [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/data_transforms.html) | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@denizkilinc/python-ile-veri-ön-i̇şlemeye-dalış-f89f921658bd) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/machine-learning/what-is-data-normalization/) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/specializations/machine-learning-introduction) |
 
 ---
 
 ### 📈 8. Modül: Supervised Learning - Regresyon
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **8-1** | Lineer Regresyon (Matematik & Uygulama) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
+| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi |
+|:---|:---|:---|:---|:---|:---|
+| **8-1** | Lineer Regresyon (Matematik & Uygulama) | [Link] | [Link] | [Link] | [Link] | 
 | **8-2** | Polinomial Regresyon | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **8-3** | Regularization (Ridge, Lasso, Elastic Net) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **8-4** | Lojistik Regresyon | [Link] | [Link] | [Link] | [Link] | [Ödev] |
+| **8-3** | Regularization (Ridge, Lasso, Elastic Net) | [Link] | [Link] | [Link] | [Link] | 
+| **8-4** | Lojistik Regresyon | [Link] | [Link] | [Link] | [Link] | 
 
 ---
 
 ### 🎯 9. Modül: Supervised Learning - Sınıflandırma
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **9-1** | k-Nearest Neighbors (k-NN) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **9-2** | Karar Ağaçları (Decision Trees) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **9-3** | Support Vector Machines (SVM) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **9-4** | Naive Bayes | [Link] | [Link] | [Link] | [Link] | [Ödev] |
+| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 
+|:---|:---|:---|:---|:---|:---|
+| **9-1** | k-Nearest Neighbors (k-NN) | [Link] | [Link] | [Link] | [Link] | 
+| **9-2** | Karar Ağaçları (Decision Trees) | [Link] | [Link] | [Link] | [Link] | 
+| **9-3** | Support Vector Machines (SVM) | [Link] | [Link] | [Link] | [Link] | 
+| **9-4** | Naive Bayes | [Link] | [Link] | [Link] | [Link] |
 
 ---
 
 ### 🌲 10. Modül: Ensemble Methods (Topluluk Yöntemleri)
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **10-1** | Bagging ve Random Forest | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **10-2** | Boosting (XGBoost, LightGBM, CatBoost) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
+| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi |
+|:---|:---|:---|:---|:---|:---|
+| **10-1** | Bagging ve Random Forest | [Link] | [Link] | [Link] | [Link] | 
+| **10-2** | Boosting (XGBoost, LightGBM, CatBoost) | [Link] | [Link] | [Link] | [Link] |
 
 ---
 
 ### 🔍 11. Modül: Unsupervised Learning
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **11-1** | Kümeleme (K-means, Hierarchical, DBSCAN) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **11-2** | Boyut Azaltma (PCA, SVD, t-SNE) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
+| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 
+|:---|:---|:---|:---|:---|:---|
+| **11-1** | Kümeleme (K-means, Hierarchical, DBSCAN) | [Link] | [Link] | [Link] | [Link] | 
+| **11-2** | Boyut Azaltma (PCA, SVD, t-SNE) | [Link] | [Link] | [Link] | [Link] |
 
 ---
 
 ### 📏 12. Modül: Değerlendirme ve Model Seçimi
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **12-1** | Değerlendirme Metrikleri (ROC, AUC, F1) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **12-2** | Model Seçimi & Hiperparametre Tuning | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-
----
-
-### 🏆 Final Projesi: ML
-| Proje Başlığı | Açıklama | Kaynak Veri | Teslim Linki |
-|:---|:---|:---|:---|
-| **Uçtan Uca Makine Öğrenmesi Hattı** | Veri ön işlemeden model dağıtımına kadar tüm süreç. | [Veri Seti] | [Repo] |
-## 🗺️ Kaynak ve Müfredat Matrisi
-
-### 🤖 6. & 7. Modül: Makine Öğrenmesine Giriş & Temeller
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **6-1 & 7.1** | ML Temel Kavramları (Teori) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PL3ED48mWmYxrAdWjQlOWzFNaM4gLgry5T) | [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/supervised_learning.html) | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/machine-learning-türkiye/makine-ogrenmesi-7cfbb3d859db) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@onurkasap/scikit-learne-giriş-08f5812791b1) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/machine-learning/what-is-python-scikit-library/) | [![Google Developers](https://img.shields.io/badge/Google%20Developers-%23202124.svg?style=for-the-badge&logo=google-developers&logoColor=white)](https://developers.google.com/machine-learning?hl=tr) | [Ödev] |
-| **7-2** | Veri Ön İşleme (Preprocessing) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=IR14hDWQVU0) | [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/data_transforms.html) | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@denizkilinc/python-ile-veri-ön-i̇şlemeye-dalış-f89f921658bd) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/machine-learning/what-is-data-normalization/) | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](https://www.coursera.org/specializations/machine-learning-introduction) | [Ödev] |
-
----
-
-### 📈 8. Modül: Supervised Learning - Regresyon
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **8-1** | Lineer Regresyon (Matematik & Uygulama) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **8-2** | Polinomial Regresyon | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **8-3** | Regularization (Ridge, Lasso, Elastic Net) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **8-4** | Lojistik Regresyon | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-
----
-
-### 🎯 9. Modül: Supervised Learning - Sınıflandırma
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **9-1** | k-Nearest Neighbors (k-NN) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **9-2** | Karar Ağaçları (Decision Trees) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **9-3** | Support Vector Machines (SVM) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **9-4** | Naive Bayes | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-
----
-
-### 🌲 10. Modül: Ensemble Methods (Topluluk Yöntemleri)
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **10-1** | Bagging ve Random Forest | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **10-2** | Boosting (XGBoost, LightGBM, CatBoost) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-
----
-
-### 🔍 11. Modül: Unsupervised Learning
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **11-1** | Kümeleme (K-means, Hierarchical, DBSCAN) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **11-2** | Boyut Azaltma (PCA, SVD, t-SNE) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-
----
-
-### 📏 12. Modül: Değerlendirme ve Model Seçimi
-| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 🛠️ Ödev |
-|:---|:---|:---|:---|:---|:---|:---|
-| **12-1** | Değerlendirme Metrikleri (ROC, AUC, F1) | [Link] | [Link] | [Link] | [Link] | [Ödev] |
-| **12-2** | Model Seçimi & Hiperparametre Tuning | [Link] | [Link] | [Link] | [Link] | [Ödev] |
+| No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi |
+|:---|:---|:---|:---|:---|:---|
+| **12-1** | Değerlendirme Metrikleri (ROC, AUC, F1) | [Link] | [Link] | [Link] | [Link] | 
+| **12-2** | Model Seçimi & Hiperparametre Tuning | [Link] | [Link] | [Link] | [Link] |
 
 ---
 
@@ -123,9 +64,8 @@ Bu doküman, müfredatın 6. bölümünden 12. bölümüne kadar uzanan Klasik M
 
 ---
 
-## 📋 Teknik Alt Başlıklar (Makine Öğrenmesi Modülleri)
-## 📋 Teknik Alt Başlıklar (Makine Öğrenmesi Modülleri)
 
+## 📋 Teknik Alt Başlıklar (Makine Öğrenmesi Modülleri)
 
 ### 🤖 6 & 7. Makine Öğrenmesi Temelleri ve Giriş
 
