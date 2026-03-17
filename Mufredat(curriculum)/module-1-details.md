@@ -29,19 +29,19 @@ Bu doküman, müfredatın ilk 4 ana bölümünü (Python, NumPy, Pandas, Matplot
 ### 🐼 3. Modül: Pandas ile Veri Manipülasyonu
 | No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi | 
 |:---|:---|:---|:---|:---|:---|
-| **3.1** | Pandas Temelleri (Series & DF) | [Link] | [Link] | [Link] | [Link] |  
-| **3.2** | Veri Temizleme & Outlier Yönetimi | [Link] | [Link] | [Link] | [Link] |  
-| **3.3** | Veri Dönüştürme (Groupby & Merge) | [Link] | [Link] | [Link] | [Link] |  
-| **3.4** | Zaman Serisi Analizi (Datetime) | [Link] | [Link] | [Link] | [Link] |  
+| **3.1** | Pandas Temelleri (Series & DF) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](https://pandas.pydata.org/docs/user_guide/10min.html#basic-data-structures-in-pandas) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#) | [Link] |  
+| **3.2** | Veri Temizleme & Outlier Yönetimi | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#) | [Link] |  
+| **3.3** | Veri Dönüştürme (Groupby & Merge) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#) | [Link] |  
+| **3.4** | Zaman Serisi Analizi (Datetime) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#) | [Link] |  
 
 ---
 
 ### 📊 4. Modül: Matplotlib & Viz
 | No | Konu Başlığı | 📺 Video | 📖 Doküman | 📝 Medium & GfG | 🎓 Eğitim Serisi |
 |:---|:---|:---|:---|:---|:---|
-| **4.1** | Matplotlib Temelleri (Subplots) | [Link] | [Link] | [Link] | [Link] |  
-| **4.2** | İleri Görselleştirme & Özelleştirme | [Link] | [Link] | [Link] | [Link] |  
-| **4.3** | Seaborn ile İstatistiksel Çizimler | [Link] | [Link] | [Link] | [Link] |  
+| **4.1** | Matplotlib Temelleri (Subplots) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#)  | [Link] |  
+| **4.2** | İleri Görselleştirme & Özelleştirme | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#)  | [Link] |  
+| **4.3** | Seaborn ile İstatistiksel Çizimler | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | [![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)](#) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#)  | [Link] |  
 
 ---
 
@@ -102,7 +102,6 @@ Bu doküman, müfredatın ilk 4 ana bölümünü (Python, NumPy, Pandas, Matplot
     * 2-3-2. Yapılandırılmış (structured) diziler
     * 2-3-3. Bellek düzeni ve performans optimizasyonu
     * 2-3-4. Vektörleştirme (vectorization) teknikleri
-
 
 
 ---
